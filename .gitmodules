@@ -1,0 +1,45 @@
+[submodule "ingredients/blaze_face"]
+	path = ingredients/blaze_face
+	url = git@github.com:GreenWaves-Technologies/blaze_face.git
+[submodule "ingredients/mcunet"]
+	path = ingredients/mcunet
+	url = git@github.com:GreenWaves-Technologies/mcunet.git
+[submodule "ingredients/image_classification_networks"]
+	path = ingredients/mobilenet
+	url = git@github.com:GreenWaves-Technologies/mobilenet.git
+[submodule "starters/vehicle_spotting"]
+	path = starters/vehicle_spotting
+	url = git@github.com:GreenWaves-Technologies/vehicle_spotting.git
+[submodule "starters/licence_plate_recognition"]
+	path = starters/licence_plate_recognition
+	url = git@github.com:GreenWaves-Technologies/licence_plate_recognition.git
+[submodule "starters/keyword_spotting"]
+	path = starters/keyword_spotting
+	url = git@github.com:GreenWaves-Technologies/keyword_spotting.git
+[submodule "starters/face_detection"]
+	path = starters/face_detection
+	url = git@github.com:GreenWaves-Technologies/face_detection.git
+[submodule "starters/body_detection"]
+	path = starters/body_detection
+	url = git@github.com:GreenWaves-Technologies/body_detection.git
+[submodule "starters/people_spotting"]
+	path = starters/people_spotting
+	url = git@github.com:GreenWaves-Technologies/people_spotting.git
+[submodule "starters/tiny_denoiser"]
+	path = starters/tiny_denoiser
+	url = git@github.com:GreenWaves-Technologies/tiny_denoiser.git
+[submodule "sides/cifar10_quant_import"]
+	path = sides/cifar10_quant_import
+	url = git@github.com:GreenWaves-Technologies/cifar10_quant_import.git
+[submodule "ingredients/efficient_net"]
+	path = ingredients/efficient_net
+	url = git@github.com:GreenWaves-Technologies/efficient_net.git
+[submodule "ingredients/resnet"]
+	path = ingredients/resnet
+	url = git@github.com:GreenWaves-Technologies/resnet.git
+[submodule "ingredients/squeezenet"]
+	path = ingredients/squeezenet
+	url = git@github.com:GreenWaves-Technologies/squeezenet.git
+[submodule "ingredients/yamnet"]
+	path = ingredients/yamnet
+	url = git@github.com:GreenWaves-Technologies/yamnet.git

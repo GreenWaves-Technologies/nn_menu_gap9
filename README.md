@@ -37,6 +37,7 @@ Use Case specific examples that use specific datasets and shows nn running for a
 
 Content of the folder:
 - Body Detection (custom CNN) 
+- Coco Object Detetion based on Mobilenet SSD
 - Face Detection (custom CNN)
 - Keyword Spotting ([speech_commands](https://www.tensorflow.org/datasets/catalog/speech_commands) from Tensorflow)
 - Licence Plate Recognition (Mobilenet SSDLite + LPRNet)

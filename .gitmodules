@@ -43,3 +43,6 @@
 [submodule "ingredients/yamnet"]
 	path = ingredients/yamnet
 	url = git@github.com:GreenWaves-Technologies/yamnet.git
+[submodule "starters/coco_object_detection"]
+	path = starters/coco_object_detection
+	url = git@github.com:GreenWaves-Technologies/coco_object_detection.git

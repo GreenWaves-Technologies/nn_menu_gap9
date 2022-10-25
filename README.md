@@ -51,7 +51,6 @@ These applications take an input from file with semihosting and output the resul
 This folders contains tools related to measurments and NNTool usage
 
 Content of the folder:
-- power_meas_utils: a project to batch measure energy consumption using a Picoscope&reg;
 - cifar10: This project shows how to train and load post training quantization statistics from Pytorch through ONNX and Tensorflow through TFLite into NNTool and deploy on GAP. 
 
 

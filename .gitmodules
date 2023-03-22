@@ -46,3 +46,6 @@
 [submodule "starters/coco_object_detection"]
 	path = starters/coco_object_detection
 	url = git@github.com:GreenWaves-Technologies/coco_object_detection.git
+[submodule "starters/yolox_people_detection"]
+	path = starters/yolox_people_detection
+	url = git@github.com:GreenWaves-Technologies/yolox_people_detection.git

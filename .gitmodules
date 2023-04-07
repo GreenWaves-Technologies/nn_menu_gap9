@@ -49,3 +49,6 @@
 [submodule "starters/yolox_people_detection"]
 	path = starters/yolox_people_detection
 	url = git@github.com:GreenWaves-Technologies/yolox_people_detection.git
+[submodule "sides/gap_spi_com"]
+	path = sides/gap_spi_com
+	url = git@github.com:GreenWaves-Technologies/gap_spi_com.git

@@ -11,7 +11,7 @@ To run the code in this repository you need to install and source the gap9 SDK w
 Once the sdk is installed source the sourceme.sh in the root sdk folder and retrieve this repository with a:
 
 ```
-git clone --recurse-submodules -j4 git@github.com:GreenWaves-Technologies/nn_menu.git
+git clone --recurse-submodules -j4 git@github.com:GreenWaves-Technologies/nn_menu_gap9.git
 ```
 
 ## Content of the repository

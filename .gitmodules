@@ -52,3 +52,6 @@
 [submodule "sides/gap_spi_com"]
 	path = sides/gap_spi_com
 	url = git@github.com:GreenWaves-Technologies/gap_spi_com.git
+[submodule "starters/face_reid"]
+	path = starters/face_reid
+	url = git@github.com:GreenWaves-Technologies/face_reid.git

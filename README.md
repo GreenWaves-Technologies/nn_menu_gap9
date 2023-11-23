@@ -39,6 +39,7 @@ Content of the folder:
 - Body Detection (custom CNN) 
 - Coco Object Detetion based on Mobilenet SSD
 - Face Detection (custom CNN)
+- Face Re-Identification (Blaze Face + Shuffle Face Net)
 - Keyword Spotting ([speech_commands](https://www.tensorflow.org/datasets/catalog/speech_commands) from Tensorflow)
 - Licence Plate Recognition (Mobilenet SSDLite + LPRNet)
 - People Spotting (NN from [MIT Visual Wakeup Words](https://github.com/mit-han-lab/VWW))

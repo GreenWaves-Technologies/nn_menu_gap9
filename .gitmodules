@@ -55,3 +55,6 @@
 [submodule "starters/face_reid"]
 	path = starters/face_reid
 	url = git@github.com:GreenWaves-Technologies/face_reid.git
+[submodule "starters/tiny_denoiser_v2"]
+	path = starters/tiny_denoiser_v2
+	url = git@github.com:GreenWaves-Technologies/tiny_denoiser_v2.git
